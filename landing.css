@@ -7,6 +7,9 @@ body{
     min-height: 100vh;
     background: #031321;
     font-family: consolas;
+    background-image: url("images/landing.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 a{
@@ -20,6 +23,7 @@ a{
     font-size: 24px;
     overflow: hidden;
     transition: 0.2s;
+    background: #222222;
 }
 
 a:hover{
